@@ -13,7 +13,7 @@ Courses followed:
 - I&I - Learning for signal processing
 
 2nd semester:
-...
+- Coming soon
 
 ---
 
