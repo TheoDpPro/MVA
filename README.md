@@ -13,7 +13,10 @@ Courses followed:
 - I&I - Learning for signal processing
 
 2nd semester:
-- Coming soon
+- Machine Learning for Time Series
+- Graphs for Machine Learning
+- Deep Learning in practice
+- Deep Learning for medical imaging
 
 ---
 
